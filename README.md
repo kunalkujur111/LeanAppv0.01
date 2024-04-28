@@ -1,1 +1,1 @@
-# LeanAppv0.01
+# LeanAppv0.01 : Not your ordinary messaging application.
